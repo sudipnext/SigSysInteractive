@@ -1,0 +1,20 @@
+{
+  "id": "references/references",
+  "title": "references",
+  "description": "References",
+  "source": "@site/docs/references/references.mdx",
+  "sourceDirName": "references",
+  "slug": "/references/",
+  "permalink": "/docs/references/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/references/references.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Book Intro",
+    "permalink": "/docs/chapter1/intro"
+  }
+}
