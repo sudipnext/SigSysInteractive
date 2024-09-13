@@ -1,0 +1,27 @@
+{
+  "id": "introduction/1.1.modeling/intro",
+  "title": "Book Intro",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/1.introduction/1.1.modeling/intro.md",
+  "sourceDirName": "1.introduction/1.1.modeling",
+  "slug": "/introduction/1.1.modeling/intro",
+  "permalink": "/docs/introduction/1.1.modeling/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1.introduction/1.1.modeling/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Book Intro",
+    "permalink": "/docs/introduction/intro"
+  },
+  "next": {
+    "title": "Continuous Time Signal Systems",
+    "permalink": "/docs/category/continuous-time-signal-systems"
+  }
+}

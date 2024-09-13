@@ -8,71 +8,111 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "introduction/intro",
           "docs": [
             {
-              "id": "chapter1/intro",
-              "path": "/docs/chapter1/intro",
+              "id": "continuous-time-linear-invariant-systems/intro",
+              "path": "/docs/continuous-time-linear-invariant-systems/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "intro",
-              "path": "/docs/intro",
+              "id": "continuous-time-signal-systems/intro",
+              "path": "/docs/continuous-time-signal-systems/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "references/references",
-              "path": "/docs/references/",
+              "id": "discrete-time-linear-invariant-systems/intro",
+              "path": "/docs/discrete-time-linear-invariant-systems/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "discrete-time-signal-systems/intro",
+              "path": "/docs/discrete-time-signal-systems/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "fourier series/intro",
+              "path": "/docs/fourier series/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "fourier-transform/intro",
+              "path": "/docs/fourier-transform/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "introduction/1.1.signals/intro",
+              "path": "/docs/introduction/1.1.signals/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "id": "introduction/1.2.systems/intro",
+              "path": "/docs/introduction/1.2.systems/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "introduction/intro",
+              "path": "/docs/introduction/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "laplace-transform/intro",
+              "path": "/docs/laplace-transform/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "references",
+              "path": "/docs/references",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/book---basics",
-              "path": "/docs/category/book---basics",
+              "id": "Z-Transform/intro",
+              "path": "/docs/Z-Transform/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/book---extras",
-              "path": "/docs/category/book---extras",
+              "id": "/category/introduction",
+              "path": "/docs/category/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/continuous-time-signal-systems",
+              "path": "/docs/category/continuous-time-signal-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/continuous-time-linear-invariant-systems",
+              "path": "/docs/category/continuous-time-linear-invariant-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/fourier-series",
+              "path": "/docs/category/fourier-series",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/fourier-transform",
+              "path": "/docs/category/fourier-transform",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/laplace-transform",
+              "path": "/docs/category/laplace-transform",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discrete-time-signal-systems",
+              "path": "/docs/category/discrete-time-signal-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/discrete-time-linear-invariant-systems",
+              "path": "/docs/category/discrete-time-linear-invariant-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/z-transform",
+              "path": "/docs/category/z-transform",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -80,8 +120,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/docs/category/introduction",
+                "label": "Introduction"
               }
             }
           }

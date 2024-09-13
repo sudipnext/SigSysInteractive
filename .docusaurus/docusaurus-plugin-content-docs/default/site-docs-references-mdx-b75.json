@@ -1,0 +1,20 @@
+{
+  "id": "references",
+  "title": "references",
+  "description": "References",
+  "source": "@site/docs/references.mdx",
+  "sourceDirName": ".",
+  "slug": "/references",
+  "permalink": "/docs/references",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/references.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Book Intro",
+    "permalink": "/docs/Z-Transform/intro"
+  }
+}

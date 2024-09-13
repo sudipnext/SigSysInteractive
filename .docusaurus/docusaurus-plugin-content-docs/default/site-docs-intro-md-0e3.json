@@ -16,8 +16,12 @@
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Book Intro",
+    "permalink": "/docs/introduction/intro"
+  },
   "next": {
-    "title": "Book - Basics",
-    "permalink": "/docs/category/book---basics"
+    "title": "Book Intro",
+    "permalink": "/docs/continuous-time-signal-systems/intro"
   }
 }

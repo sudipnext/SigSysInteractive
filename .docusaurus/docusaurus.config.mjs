@@ -6,7 +6,7 @@
 export default {
   "title": "Sig Sys",
   "tagline": "Where Signals Meet Systems",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/logo.png",
   "url": "https://your-docusaurus-site.example.com",
   "baseUrl": "/",
   "organizationName": "facebook",
@@ -41,7 +41,7 @@ export default {
       "title": "Sig Sys",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "img/logo.png"
       },
       "items": [
         {
@@ -62,11 +62,11 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Book",
           "items": [
             {
               "label": "Book",
-              "to": "/docs/intro"
+              "to": "/docs/introduction/intro"
             }
           ]
         },

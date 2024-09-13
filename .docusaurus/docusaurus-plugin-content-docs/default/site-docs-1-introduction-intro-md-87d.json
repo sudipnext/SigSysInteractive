@@ -1,0 +1,27 @@
+{
+  "id": "introduction/intro",
+  "title": "Book Intro",
+  "description": "Welcome! Let’s crack open Signals and Systems in under 5 minutes—yep, no need for coffee, this is going to be smooth.",
+  "source": "@site/docs/1.introduction/intro.md",
+  "sourceDirName": "1.introduction",
+  "slug": "/introduction/intro",
+  "permalink": "/docs/introduction/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1.introduction/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/category/introduction"
+  },
+  "next": {
+    "title": "Signal",
+    "permalink": "/docs/introduction/1.1.signals/intro"
+  }
+}

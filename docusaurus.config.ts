@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Sig Sys',
   tagline: 'Where Signals Meet Systems',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -69,7 +69,7 @@ const config: Config = {
       title: 'Sig Sys',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -90,11 +90,11 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Book',
           items: [
             {
               label: 'Book',
-              to: '/docs/intro',
+              to: '/docs/introduction/intro',
             },
           ],
         },

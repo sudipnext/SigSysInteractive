@@ -1,0 +1,27 @@
+{
+  "id": "continuous-time-signal-systems/intro",
+  "title": "Book Intro",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/2.continuous-time-signal-systems/intro.md",
+  "sourceDirName": "2.continuous-time-signal-systems",
+  "slug": "/continuous-time-signal-systems/intro",
+  "permalink": "/docs/continuous-time-signal-systems/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2.continuous-time-signal-systems/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Continuous Time Signal Systems",
+    "permalink": "/docs/category/continuous-time-signal-systems"
+  },
+  "next": {
+    "title": "Continuous Time Linear Invariant Systems",
+    "permalink": "/docs/category/continuous-time-linear-invariant-systems"
+  }
+}

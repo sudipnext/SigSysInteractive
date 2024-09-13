@@ -1,0 +1,27 @@
+{
+  "id": "Z-Transform/intro",
+  "title": "Book Intro",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/9.Z-Transform/intro.md",
+  "sourceDirName": "9.Z-Transform",
+  "slug": "/Z-Transform/intro",
+  "permalink": "/docs/Z-Transform/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/9.Z-Transform/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Z-Transform",
+    "permalink": "/docs/category/z-transform"
+  },
+  "next": {
+    "title": "references",
+    "permalink": "/docs/references"
+  }
+}
