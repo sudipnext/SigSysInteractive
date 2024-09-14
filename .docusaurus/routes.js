@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '0fe'),
+    component: ComponentCreator('/docs', '7d3'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'a20'),
+        component: ComponentCreator('/docs', '6a2'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'c67'),
+            component: ComponentCreator('/docs', '9a4'),
             routes: [
               {
                 path: '/docs/category/continuous-time-linear-invariant-systems',
@@ -146,7 +146,7 @@ export default [
               },
               {
                 path: '/docs/introduction/1.1.signals/intro',
-                component: ComponentCreator('/docs/introduction/1.1.signals/intro', '27b'),
+                component: ComponentCreator('/docs/introduction/1.1.signals/intro', '038'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
